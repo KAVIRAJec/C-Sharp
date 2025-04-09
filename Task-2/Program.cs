@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Text;
 
 namespace Task_2
 {
     public class Person {
-        public string Name;
-        public int Age;
+        public string Name { get; set; }
+        public int Age { get; set; }
         public Person(string name="UserName", int age = 18)
         {
             Name = name;

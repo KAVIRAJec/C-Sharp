@@ -32,5 +32,5 @@ namespace Task_1
                 Console.WriteLine("Factorial of {0} is {1}", number, factorial);
             }
         }
-    }
+}
 }
