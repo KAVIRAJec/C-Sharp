@@ -29,7 +29,7 @@ namespace Task_8
         {
             if(items.ContainsKey(id))
             {
-                item.Id = id;
+                //item.Id = id;
                 items[id] = item;
             }
         }

@@ -33,7 +33,6 @@ namespace Task_8
                             string name = Console.ReadLine();
                             Console.Write("Enter Age: ");
                             int age = Convert.ToInt32(Console.ReadLine());
-
                             StudentRepo.Add(new Student { Name = name, Age = age });
                             Console.WriteLine("Student added!");
                             break;
