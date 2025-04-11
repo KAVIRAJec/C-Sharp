@@ -32,17 +32,17 @@ namespace Task_7
         }
         public string Task1()
         {
-            Thread.Sleep(3000);
+            //Thread.Sleep(3000);
             return $"Thread Task 1 completed {Thread.CurrentThread.ManagedThreadId}";
         }
         public string Task2()
         {
-            Thread.Sleep(1000);
+            //Thread.Sleep(1000);
             return $"Thread Task 2 completed {Thread.CurrentThread.ManagedThreadId}";
         }
         public string Task3()
         {
-            Thread.Sleep(2000);
+            //Thread.Sleep(2000);
             return $"Thread Task 3 completed {Thread.CurrentThread.ManagedThreadId}";
         }
     }
