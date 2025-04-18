@@ -1,0 +1,32 @@
+[
+  {
+    "Genre": "Biography",
+    "PageCount": 200,
+    "Id": 1,
+    "Title": "The life of Coder",
+    "Author": "Developer",
+    "PublicationYear": 2003,
+    "ItemStatus": 0,
+    "Type": "Book"
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Kaviraj",
+    "Id": 2,
+    "Title": "The Monthly Views",
+    "Author": "Alex",
+    "PublicationYear": 102,
+    "ItemStatus": 0,
+    "Type": "Magazine"
+  },
+  {
+    "Format": "pdf",
+    "FileSize": 0,
+    "Id": 3,
+    "Title": "The academic report",
+    "Author": "BIT",
+    "PublicationYear": 2025,
+    "ItemStatus": 0,
+    "Type": "DigitalResource"
+  }
+]
